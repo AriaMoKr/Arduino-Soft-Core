@@ -2,7 +2,7 @@ The Arduino Soft Core is the combination of the AVR8 Soft Processor and the Ardu
 
 For more information visit http://papilio.cc
 
-The AVR8 Soft processor was originally downloaded from [OpenCores.com](http://opencores.com/project,avr_core).
+The AVR8 Soft processor was originally downloaded from [OpenCores.org](http://opencores.org/project,avr_core).
 
 The Arduino IDE is modified to merge sketches into the AVR8 processor and load the processor and sketch the the Papilio One FPGA dev board.
 
